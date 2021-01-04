@@ -1,2 +1,2 @@
 # SecuredKS
-Secured Key system
+Secured Key system with mysql. 
